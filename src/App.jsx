@@ -354,7 +354,7 @@ const App = () => {
           </div>
           
           <div className="pt-12 mt-12 border-t border-slate-200 text-center">
-            <p className="text-[10px] font-black text-slate-400 uppercase tracking-[0.4em] mb-2">Finnovators Solutions Pvt Ltd</p>
+            <p className="text-[10px] font-black text-slate-400 uppercase tracking-[0.4em] mb-2">Finnovators Services Pvt Ltd</p>
             <p className="text-[9px] font-bold text-slate-300 uppercase tracking-widest">AMFI Registered Mutual Fund Distributor</p>
           </div>
         </div>
